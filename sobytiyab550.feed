@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="ru-ru">
+	<title type="text">События</title>
+	<subtitle type="text">институт дружбы народов кавказа</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.idnk.ru"/>
+	<id>https://www.idnk.ru/sobytiya.feed</id>
+	<updated>2025-03-06T14:56:04+00:00</updated>
+	<author>
+		<name>idnkru@yandex.ru</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.idnk.ru/sobytiya.feed?type=atom"/>
+	<entry>
+		<title>День народного единства</title>
+		<link rel="alternate" type="text/html" href="https://www.idnk.ru/sobytiya/213-den-narodnogo-edinstva.html"/>
+		<published>2022-11-07T06:07:02+00:00</published>
+		<updated>2022-11-07T06:07:02+00:00</updated>
+		<id>https://www.idnk.ru/sobytiya/213-den-narodnogo-edinstva.html</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://www.idnk.ru/images/news/dne.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;314&quot; src=&quot;//www.youtube.com/embed/ALgKfTPn0C0&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;314&quot; src=&quot;//www.youtube.com/embed/B7V8ek5znwM&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://www.idnk.ru/images/news/dne.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;314&quot; src=&quot;//www.youtube.com/embed/ALgKfTPn0C0&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;314&quot; src=&quot;//www.youtube.com/embed/B7V8ek5znwM&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;</content>
+		<category term="События" />
+	</entry>
+	<entry>
+		<title>ЗНАНИЕ О ГЕРОЯХ</title>
+		<link rel="alternate" type="text/html" href="https://www.idnk.ru/sobytiya/211-znanie-o-geroyakh.html"/>
+		<published>2022-11-01T09:10:04+00:00</published>
+		<updated>2022-11-01T09:10:04+00:00</updated>
+		<id>https://www.idnk.ru/sobytiya/211-znanie-o-geroyakh.html</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://www.idnk.ru/images/news/4_page-0001.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://www.idnk.ru/images/news/_page-0001.jpg&quot; alt=&quot;&quot; width=&quot;1011&quot; height=&quot;1011&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://www.idnk.ru/images/news/4_page-0001.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://www.idnk.ru/images/news/_page-0001.jpg&quot; alt=&quot;&quot; width=&quot;1011&quot; height=&quot;1011&quot; /&gt;&lt;/p&gt;</content>
+		<category term="События" />
+	</entry>
+	<entry>
+		<title>Свидетельство о профессионально-общественной аккредитации</title>
+		<link rel="alternate" type="text/html" href="https://www.idnk.ru/sobytiya/209-svidetelstvo-o-professionalno-obshchestvennoj-akkreditatsii.html"/>
+		<published>2022-09-30T02:49:24+00:00</published>
+		<updated>2022-09-30T02:49:24+00:00</updated>
+		<id>https://www.idnk.ru/sobytiya/209-svidetelstvo-o-professionalno-obshchestvennoj-akkreditatsii.html</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://www.idnk.ru/images/news/men_akr.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://www.idnk.ru/images/news/men_akr.jpg&quot; alt=&quot;&quot; width=&quot;1208&quot; height=&quot;828&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://www.idnk.ru/images/news/men_akr.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://www.idnk.ru/images/news/men_akr.jpg&quot; alt=&quot;&quot; width=&quot;1208&quot; height=&quot;828&quot; /&gt;&lt;/p&gt;</content>
+		<category term="События" />
+	</entry>
+	<entry>
+		<title>Благотворительный телемарафон «Вперёд Россия–Победа будет за нами!</title>
+		<link rel="alternate" type="text/html" href="https://www.idnk.ru/sobytiya/206-blagotvoritelnyj-telemarafon-vperjod-rossiya-pobeda-budet-za-nami.html"/>
+		<published>2022-09-12T04:44:53+00:00</published>
+		<updated>2022-09-12T04:44:53+00:00</updated>
+		<id>https://www.idnk.ru/sobytiya/206-blagotvoritelnyj-telemarafon-vperjod-rossiya-pobeda-budet-za-nami.html</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://www.idnk.ru/images/news/vpered.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://znamya.press/?utm_source=ext_partner&amp;amp;utm_medium=special&amp;amp;utm_campaign=znamya&quot;&gt;&lt;img src=&quot;https://www.idnk.ru/images/news/vpered.jpg&quot; alt=&quot;&quot; width=&quot;300&quot; height=&quot;169&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://www.idnk.ru/images/news/vpered.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://znamya.press/?utm_source=ext_partner&amp;amp;utm_medium=special&amp;amp;utm_campaign=znamya&quot;&gt;&lt;img src=&quot;https://www.idnk.ru/images/news/vpered.jpg&quot; alt=&quot;&quot; width=&quot;300&quot; height=&quot;169&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="События" />
+	</entry>
+	<entry>
+		<title>Благовещение</title>
+		<link rel="alternate" type="text/html" href="https://www.idnk.ru/sobytiya/194-blagoveshchenie.html"/>
+		<published>2022-04-07T14:06:52+00:00</published>
+		<updated>2022-04-07T14:06:52+00:00</updated>
+		<id>https://www.idnk.ru/sobytiya/194-blagoveshchenie.html</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://www.idnk.ru/images/07042022.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Сегодня в храме Института Дружбы народов Кавказа и колледжа &quot;Современная школа бизнеса&quot; прошла служба, приуроченная к Благовещению.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;314&quot; src=&quot;//www.youtube.com/embed/PRGGRt3oz9E&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://www.idnk.ru/images/07042022.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Сегодня в храме Института Дружбы народов Кавказа и колледжа &quot;Современная школа бизнеса&quot; прошла служба, приуроченная к Благовещению.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;314&quot; src=&quot;//www.youtube.com/embed/PRGGRt3oz9E&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+		<category term="События" />
+	</entry>
+	<entry>
+		<title>Крещенская служба</title>
+		<link rel="alternate" type="text/html" href="https://www.idnk.ru/sobytiya/192-kreshchenskaya-sluzhba.html"/>
+		<published>2022-01-19T05:10:19+00:00</published>
+		<updated>2022-01-19T05:10:19+00:00</updated>
+		<id>https://www.idnk.ru/sobytiya/192-kreshchenskaya-sluzhba.html</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://www.idnk.ru/images/news/19012022.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;314&quot; src=&quot;//www.youtube.com/embed/lKSRXeOq8EE&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://www.idnk.ru/images/news/19012022.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;314&quot; src=&quot;//www.youtube.com/embed/lKSRXeOq8EE&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;</content>
+		<category term="События" />
+	</entry>
+	<entry>
+		<title>Студенты семинарии приняли участие в научно-образовательной конференции «Школа молодого теолога»</title>
+		<link rel="alternate" type="text/html" href="https://www.idnk.ru/sobytiya/179-studenty-seminarii-prinyali-uchastie-v-nauchno-obrazovatelnoj-konferentsii-shkola-molodogo-teologa.html"/>
+		<published>2021-09-27T13:14:35+00:00</published>
+		<updated>2021-09-27T13:14:35+00:00</updated>
+		<id>https://www.idnk.ru/sobytiya/179-studenty-seminarii-prinyali-uchastie-v-nauchno-obrazovatelnoj-konferentsii-shkola-molodogo-teologa.html</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://www.idnk.ru/images/news/2021/2109.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;18 сентября 2021 года в республике Дагестан стартовала III Всероссийская научно-образовательная конференция «Школа молодого теолога».&lt;/p&gt;
+&lt;p&gt;Организатором выступил Дагестанский гуманитарный институт при содействии Фонда поддержки исламской культуры, науки и образования и Муфтията Республики Дагестан. ⠀&lt;/p&gt;
+&lt;p&gt;Для участников запланированы различные образовательные, научные, спортивные, культурные площадки, на которых будут работать следующие эксперты: представители органов государственной власти, научного сообщества, религиозные и общественные деятели.&lt;/p&gt;
+&lt;p&gt;Стоит отметить, что мероприятие представляет собой коммуникативную площадку, где будет рассмотрен широкий круг актуальных вопросов, связанных с духовно-нравственным и гражданско-патриотическим воспитанием молодого поколения в соответствии с традиционными ценностями, развитием культуры межрелигиозного и межнационального диалога.&lt;/p&gt;
+&lt;p&gt;Насыщенная программа включает в себя 6 дней работы. В нее входят: образовательные, научные, спортивные, культурные площадки, а также семинары-обсуждения, публичные дискуссии и психологические тренинги. Мероприятие базируется на площадке нескольких секций.&lt;/p&gt;
+&lt;p&gt;Особенно стоит выделить работу Секции №1 – «Роль теологического образования в духовно-нравственном развитии общества, в противодействии вызовам и угрозам современности», которая проходит  в санатории «Каспий» Карабудахкентского района. В ней принимают участие представители научной интеллигенции, преподаватели и студенты различных Вузов.&lt;/p&gt;
+&lt;p&gt;Секция №2 — «Современное состояние и основные проблемы теологического и религиозного образования в Российской Федерации» проходит в Дагестанском гуманитарном институте. Докладчиками планируется, поднять такие вопросы, как мусульманская образовательная система, история и современность, теологическое образование в современном Дагестане и др.&lt;/p&gt;
+&lt;p&gt;От Ставропольской епархии в данном мероприятии принимают участие студенты Ставропольской духовной семинарии во главе с клириком епархии священником Александром Полосиным, которые также обучаются на факультете «Теология» «Института Дружбы народов Кавказа» (ИДНК).&lt;/p&gt;
+&lt;p&gt;Данная конференция собрала на своей площадке более 50 участников из различных субъектов Российской Федерации. Среди них  представители вузов, в которых осуществляется подготовка специалистов по направлению «Теология» и учащиеся других учреждений высшего образования.&lt;/p&gt;
+&lt;p&gt;В данном мероприятии принимают участие: Московский государственный лингвистический университет, Общецерковная аспирантура и докторантура, Ставропольская духовная семинария, Болгарская исламская академия, Российский исламский институт, Казанская православная семинарии, Институт дружбы народов Кавказа, Пятигорский государственный университет, Дагестанский теологический институт и другие.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://www.idnk.ru/images/news/2021/2109.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;18 сентября 2021 года в республике Дагестан стартовала III Всероссийская научно-образовательная конференция «Школа молодого теолога».&lt;/p&gt;
+&lt;p&gt;Организатором выступил Дагестанский гуманитарный институт при содействии Фонда поддержки исламской культуры, науки и образования и Муфтията Республики Дагестан. ⠀&lt;/p&gt;
+&lt;p&gt;Для участников запланированы различные образовательные, научные, спортивные, культурные площадки, на которых будут работать следующие эксперты: представители органов государственной власти, научного сообщества, религиозные и общественные деятели.&lt;/p&gt;
+&lt;p&gt;Стоит отметить, что мероприятие представляет собой коммуникативную площадку, где будет рассмотрен широкий круг актуальных вопросов, связанных с духовно-нравственным и гражданско-патриотическим воспитанием молодого поколения в соответствии с традиционными ценностями, развитием культуры межрелигиозного и межнационального диалога.&lt;/p&gt;
+&lt;p&gt;Насыщенная программа включает в себя 6 дней работы. В нее входят: образовательные, научные, спортивные, культурные площадки, а также семинары-обсуждения, публичные дискуссии и психологические тренинги. Мероприятие базируется на площадке нескольких секций.&lt;/p&gt;
+&lt;p&gt;Особенно стоит выделить работу Секции №1 – «Роль теологического образования в духовно-нравственном развитии общества, в противодействии вызовам и угрозам современности», которая проходит  в санатории «Каспий» Карабудахкентского района. В ней принимают участие представители научной интеллигенции, преподаватели и студенты различных Вузов.&lt;/p&gt;
+&lt;p&gt;Секция №2 — «Современное состояние и основные проблемы теологического и религиозного образования в Российской Федерации» проходит в Дагестанском гуманитарном институте. Докладчиками планируется, поднять такие вопросы, как мусульманская образовательная система, история и современность, теологическое образование в современном Дагестане и др.&lt;/p&gt;
+&lt;p&gt;От Ставропольской епархии в данном мероприятии принимают участие студенты Ставропольской духовной семинарии во главе с клириком епархии священником Александром Полосиным, которые также обучаются на факультете «Теология» «Института Дружбы народов Кавказа» (ИДНК).&lt;/p&gt;
+&lt;p&gt;Данная конференция собрала на своей площадке более 50 участников из различных субъектов Российской Федерации. Среди них  представители вузов, в которых осуществляется подготовка специалистов по направлению «Теология» и учащиеся других учреждений высшего образования.&lt;/p&gt;
+&lt;p&gt;В данном мероприятии принимают участие: Московский государственный лингвистический университет, Общецерковная аспирантура и докторантура, Ставропольская духовная семинария, Болгарская исламская академия, Российский исламский институт, Казанская православная семинарии, Институт дружбы народов Кавказа, Пятигорский государственный университет, Дагестанский теологический институт и другие.&lt;/p&gt;</content>
+		<category term="События" />
+	</entry>
+	<entry>
+		<title>1 сентября</title>
+		<link rel="alternate" type="text/html" href="https://www.idnk.ru/sobytiya/176-1-sentyabrya2021.html"/>
+		<published>2021-09-02T06:36:01+00:00</published>
+		<updated>2021-09-02T06:36:01+00:00</updated>
+		<id>https://www.idnk.ru/sobytiya/176-1-sentyabrya2021.html</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://www.idnk.ru/images/news/2021/IMG-20210902-WA0004.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Благодарим Михаила Владимировича Кузьмина, депутата ГД РФ за вручение наград профессорском-преподавательскому составу, высокую атмосферу праздника и пожелание нашему студенчеству!&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;314&quot; src=&quot;//www.youtube.com/embed/xT5i0axdLQA&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://www.idnk.ru/images/news/2021/IMG-20210902-WA0004.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Благодарим Михаила Владимировича Кузьмина, депутата ГД РФ за вручение наград профессорском-преподавательскому составу, высокую атмосферу праздника и пожелание нашему студенчеству!&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;314&quot; src=&quot;//www.youtube.com/embed/xT5i0axdLQA&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;</content>
+		<category term="События" />
+	</entry>
+	<entry>
+		<title>Соглашение о сотрудничестве</title>
+		<link rel="alternate" type="text/html" href="https://www.idnk.ru/sobytiya/148-soglashenie-o-sotrudnichestve.html"/>
+		<published>2021-02-15T10:52:03+00:00</published>
+		<updated>2021-02-15T10:52:03+00:00</updated>
+		<id>https://www.idnk.ru/sobytiya/148-soglashenie-o-sotrudnichestve.html</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://www.idnk.ru/images/IMG-20210214-WA0021.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Подписание соглашения между ИНСТИТУТОМ ДРУЖБЫ НАРОДОВ КАВКАЗА и &lt;span&gt;Московским государственным университетом технологий и управления &lt;/span&gt;им. К.Г. Разумовского состоялось на территории Ставропольской и Невинномысской Епархии&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.idnk.ru/images/IMG-20210214-WA0021.jpg&quot; alt=&quot;&quot; width=&quot;505&quot; height=&quot;379&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://www.idnk.ru/images/IMG-20210214-WA0021.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Подписание соглашения между ИНСТИТУТОМ ДРУЖБЫ НАРОДОВ КАВКАЗА и &lt;span&gt;Московским государственным университетом технологий и управления &lt;/span&gt;им. К.Г. Разумовского состоялось на территории Ставропольской и Невинномысской Епархии&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.idnk.ru/images/IMG-20210214-WA0021.jpg&quot; alt=&quot;&quot; width=&quot;505&quot; height=&quot;379&quot; /&gt;&lt;/p&gt;</content>
+		<category term="События" />
+	</entry>
+	<entry>
+		<title>Конференция </title>
+		<link rel="alternate" type="text/html" href="https://www.idnk.ru/sobytiya/147-konferentsiya.html"/>
+		<published>2021-02-13T16:15:00+00:00</published>
+		<updated>2021-02-13T16:15:00+00:00</updated>
+		<id>https://www.idnk.ru/sobytiya/147-konferentsiya.html</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://www.idnk.ru/images/djmediatools/22-12-02/img_5771.jpg&quot; /&gt;&lt;/p&gt;&lt;div&gt;12 февраля в ИНСТИТУТЕ ДРУЖБЫ НАРОДОВ КАВКАЗА  прошла международная конференция&lt;/div&gt;
+&lt;div&gt;&lt;img src=&quot;https://www.idnk.ru/images/djmediatools/22-12-02/img_5714.jpg&quot; style=&quot;background: #f5f5f5 url('administrator/components/com_djmediatools/assets/icon.png') 10px center no-repeat; display: block; max-width: 100%; max-height: 300px; margin: 10px auto; padding: 10px 10px 10px 110px; border: 1px solid #ddd; -moz-box-sizing: border-box; box-sizing: border-box;&quot; alt=&quot;djmedia:22&quot; title=&quot;12.02&quot; /&gt;&lt;/div&gt;
+&lt;div&gt;
+&lt;p&gt;Был очень рад участвовать XV Международнойнаучно-практическойконференции. Организаторы смогли создать атмосферу творчества и оказали поистине радушный прием.&lt;/p&gt;
+&lt;p&gt;С уважением,&lt;/p&gt;
+&lt;p&gt;старший научный сотрудник&lt;/p&gt;
+&lt;p&gt;Московского исламского института&lt;/p&gt;
+&lt;p&gt;АхмадуллинВ.А.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Уважаемая Татьяна Сергеевна! Впервые был у Вас в Институте Дружбы народов Кавказа! Очень приятно были удивлены атмосферой дружбы, теплоты, прогрессивностью и масштабом! Очень много сделано и вложено, действительно это ВУЗ с большой буквы!&lt;/p&gt;
+&lt;p&gt;Молитвенно желаем Вам процветания, прогресса и роста во всех областях! Очень впечатлены Храмом внутри Института!&lt;/p&gt;
+&lt;p&gt;С теплыми пожеланиями и искренними молитвами&lt;/p&gt;
+&lt;p&gt;из г. Уфы, Республика Башкортостан.&lt;/p&gt;
+&lt;p&gt;Президент Ассоциация поддержки образования и&lt;/p&gt;
+&lt;p&gt;духовно-нравственного развития общества «Флагман»&lt;/p&gt;
+&lt;p&gt;Валеев А.А.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; Дорогой Татьяне Сергеевне, преподавателям и студентам ИДНК пожелания от всей души доброго здоровья, развития уникальных традиций дружбы и взаимодействия между народами Кавказа и всей России.&lt;/p&gt;
+&lt;p&gt;Желаю творческих и научных успехов, жизненной энергии и жизнерадостности на каждый день.&lt;/p&gt;
+&lt;p&gt;С благодарностью&lt;/p&gt;
+&lt;p&gt;за приглашение и радость общения.&lt;/p&gt;
+&lt;p&gt;Председатель Экспертного совета при&lt;/p&gt;
+&lt;p&gt;Патриархе по взаимодействию с исламским миром&lt;/p&gt;
+&lt;p&gt;иеромонах Григорий (Матрусов)&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; Благодарю Ледович Татьяну Сергеевну – организатора и создателя Института Дружбы народов Кавказа, ректора, доктора эконом. наук, профессора!&lt;/p&gt;
+&lt;p&gt;Создание православного Храма, развитие теологи, социально-гуманитарных дисциплин, формирование эффективных практик межконфессионального согласия, подготовка кадров, владеющих особыми компетенциями ставят ВУЗ на высокую ступень Российского высшего образования!&lt;/p&gt;
+&lt;p&gt;XV Международная научного-практическая конференция стала современной площадкой с возможностью проведения II Международного форума, развития межконфессиональных отношений.&lt;/p&gt;
+&lt;p&gt; С большим уважением к ректору, коллективу Института Дружбы Народов Кавказа.&lt;/p&gt;
+&lt;p&gt;Председатель комиссии по социальному развитию,&lt;/p&gt;
+&lt;p&gt;образованию, связям с общественными советами&lt;/p&gt;
+&lt;p&gt;Общественной палаты Ставропольского края&lt;/p&gt;
+&lt;p&gt;ГударенкоР.Ф.&lt;/p&gt;
+&lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;314&quot; src=&quot;//www.youtube.com/embed/Mn2aX6BWRxg&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;314&quot; src=&quot;//www.youtube.com/embed/iK557ekTpu4&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;314&quot; src=&quot;//www.youtube.com/embed/l72tcYI9PN8&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;314&quot; src=&quot;//www.youtube.com/embed/QRVPRXs4XFQ&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;314&quot; src=&quot;//www.youtube.com/embed/D1B2m7zvPhc&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://www.idnk.ru/images/djmediatools/22-12-02/img_5771.jpg&quot; /&gt;&lt;/p&gt;&lt;div&gt;12 февраля в ИНСТИТУТЕ ДРУЖБЫ НАРОДОВ КАВКАЗА  прошла международная конференция&lt;/div&gt;
+&lt;div&gt;&lt;img src=&quot;https://www.idnk.ru/images/djmediatools/22-12-02/img_5714.jpg&quot; style=&quot;background: #f5f5f5 url('administrator/components/com_djmediatools/assets/icon.png') 10px center no-repeat; display: block; max-width: 100%; max-height: 300px; margin: 10px auto; padding: 10px 10px 10px 110px; border: 1px solid #ddd; -moz-box-sizing: border-box; box-sizing: border-box;&quot; alt=&quot;djmedia:22&quot; title=&quot;12.02&quot; /&gt;&lt;/div&gt;
+&lt;div&gt;
+&lt;p&gt;Был очень рад участвовать XV Международнойнаучно-практическойконференции. Организаторы смогли создать атмосферу творчества и оказали поистине радушный прием.&lt;/p&gt;
+&lt;p&gt;С уважением,&lt;/p&gt;
+&lt;p&gt;старший научный сотрудник&lt;/p&gt;
+&lt;p&gt;Московского исламского института&lt;/p&gt;
+&lt;p&gt;АхмадуллинВ.А.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Уважаемая Татьяна Сергеевна! Впервые был у Вас в Институте Дружбы народов Кавказа! Очень приятно были удивлены атмосферой дружбы, теплоты, прогрессивностью и масштабом! Очень много сделано и вложено, действительно это ВУЗ с большой буквы!&lt;/p&gt;
+&lt;p&gt;Молитвенно желаем Вам процветания, прогресса и роста во всех областях! Очень впечатлены Храмом внутри Института!&lt;/p&gt;
+&lt;p&gt;С теплыми пожеланиями и искренними молитвами&lt;/p&gt;
+&lt;p&gt;из г. Уфы, Республика Башкортостан.&lt;/p&gt;
+&lt;p&gt;Президент Ассоциация поддержки образования и&lt;/p&gt;
+&lt;p&gt;духовно-нравственного развития общества «Флагман»&lt;/p&gt;
+&lt;p&gt;Валеев А.А.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; Дорогой Татьяне Сергеевне, преподавателям и студентам ИДНК пожелания от всей души доброго здоровья, развития уникальных традиций дружбы и взаимодействия между народами Кавказа и всей России.&lt;/p&gt;
+&lt;p&gt;Желаю творческих и научных успехов, жизненной энергии и жизнерадостности на каждый день.&lt;/p&gt;
+&lt;p&gt;С благодарностью&lt;/p&gt;
+&lt;p&gt;за приглашение и радость общения.&lt;/p&gt;
+&lt;p&gt;Председатель Экспертного совета при&lt;/p&gt;
+&lt;p&gt;Патриархе по взаимодействию с исламским миром&lt;/p&gt;
+&lt;p&gt;иеромонах Григорий (Матрусов)&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; Благодарю Ледович Татьяну Сергеевну – организатора и создателя Института Дружбы народов Кавказа, ректора, доктора эконом. наук, профессора!&lt;/p&gt;
+&lt;p&gt;Создание православного Храма, развитие теологи, социально-гуманитарных дисциплин, формирование эффективных практик межконфессионального согласия, подготовка кадров, владеющих особыми компетенциями ставят ВУЗ на высокую ступень Российского высшего образования!&lt;/p&gt;
+&lt;p&gt;XV Международная научного-практическая конференция стала современной площадкой с возможностью проведения II Международного форума, развития межконфессиональных отношений.&lt;/p&gt;
+&lt;p&gt; С большим уважением к ректору, коллективу Института Дружбы Народов Кавказа.&lt;/p&gt;
+&lt;p&gt;Председатель комиссии по социальному развитию,&lt;/p&gt;
+&lt;p&gt;образованию, связям с общественными советами&lt;/p&gt;
+&lt;p&gt;Общественной палаты Ставропольского края&lt;/p&gt;
+&lt;p&gt;ГударенкоР.Ф.&lt;/p&gt;
+&lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;314&quot; src=&quot;//www.youtube.com/embed/Mn2aX6BWRxg&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;314&quot; src=&quot;//www.youtube.com/embed/iK557ekTpu4&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;314&quot; src=&quot;//www.youtube.com/embed/l72tcYI9PN8&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;314&quot; src=&quot;//www.youtube.com/embed/QRVPRXs4XFQ&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;314&quot; src=&quot;//www.youtube.com/embed/D1B2m7zvPhc&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="События" />
+	</entry>
+	<entry>
+		<title>Встреча с митрополитом Ставропольским и Невинномысским Владыкой Кириллом</title>
+		<link rel="alternate" type="text/html" href="https://www.idnk.ru/sobytiya/139-vstrecha-s-mitropolitom-stavropolskim-i-nevinnomysskim-vladykoj-kirillom.html"/>
+		<published>2020-11-11T15:33:44+00:00</published>
+		<updated>2020-11-11T15:33:44+00:00</updated>
+		<id>https://www.idnk.ru/sobytiya/139-vstrecha-s-mitropolitom-stavropolskim-i-nevinnomysskim-vladykoj-kirillom.html</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://www.idnk.ru/images/newspr/IMG-20201110-WA0005.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Сегодня 10 ноября состоялась рабочая встреча ректора института Ледович Татьяны Сергеевны  с митрополитом Ставропольским и Невинномысским Владыкой Кириллом. Обсуждались вопросы расширения сотрудничества ИДНК со Ставропольской и Невинномысской Епархией в области теологического образования и вступления Института Дружбы народов Кавказа в Научно-образовательную теологическую ассоциация (НОТА). Владыка передал библиотеке института собственные издания с личной подписью.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.idnk.ru/images/newspr/IMG-20201110-WA0005.jpg&quot; alt=&quot;&quot; width=&quot;522&quot; height=&quot;348&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://www.idnk.ru/images/newspr/IMG-20201110-WA0005.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Сегодня 10 ноября состоялась рабочая встреча ректора института Ледович Татьяны Сергеевны  с митрополитом Ставропольским и Невинномысским Владыкой Кириллом. Обсуждались вопросы расширения сотрудничества ИДНК со Ставропольской и Невинномысской Епархией в области теологического образования и вступления Института Дружбы народов Кавказа в Научно-образовательную теологическую ассоциация (НОТА). Владыка передал библиотеке института собственные издания с личной подписью.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.idnk.ru/images/newspr/IMG-20201110-WA0005.jpg&quot; alt=&quot;&quot; width=&quot;522&quot; height=&quot;348&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;</content>
+		<category term="События" />
+	</entry>
+	<entry>
+		<title>1 сентября 2020 года в Институте Дружбы народов Кавказа традиционно состоялся День знаний</title>
+		<link rel="alternate" type="text/html" href="https://www.idnk.ru/sobytiya/129-1-sentyabrya-2020-goda-v-institute-druzhby-narodov-kavkaza-traditsionno-sostoyalsya-den-znanij.html"/>
+		<published>2020-09-03T06:30:51+00:00</published>
+		<updated>2020-09-03T06:30:51+00:00</updated>
+		<id>https://www.idnk.ru/sobytiya/129-1-sentyabrya-2020-goda-v-institute-druzhby-narodov-kavkaza-traditsionno-sostoyalsya-den-znanij.html</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://www.idnk.ru/images/newspr/109.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;1 сентября 2020 года в Институте Дружбы народов Кавказа традиционно состоялся День знаний, на котором преподаватели вуза знакомились со студентами-первокурсниками, а кураторы рассказывали ребятам о традициях института, проводили экскурсии по учебным аудиториям и научным лабораториям.&lt;/p&gt;
+&lt;p&gt;         Доброй традицией института стало проведение перед началом занятий философского урока нравственности. В этот раз перед гостями, преподавателями и студентами выступил Отец Владимир (Волков) – настоятель Храма Святой Троицы г. Ставрополя, преподаватель Ставропольской Духовной Семинарии. Он рассказал о необходимости преодоления трудностей во время обучения в современном полимотивированном мире. Основным посылом духовного настоятеля к слушателям являлось усиление добродетельного давления на учеников с целью их духовного укрепления и готовности к преодолению трудностей.&lt;/p&gt;
+&lt;p&gt;         В завершение Дня знаний, ректор института доктор экономических наук, профессор Т.С. Ледович и все присутствовавшие поздравили Отца Владимира с успешным окончанием аспирантуры ИДНК по направлению 37.06.01 Психологические науки и вручили ему диплом с отличием, пожелав дальнейших успехов на научном и преподавательском поприще.&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img src=&quot;https://www.idnk.ru/images/newspr/109.jpg&quot; alt=&quot;&quot; width=&quot;441&quot; height=&quot;588&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://www.idnk.ru/images/newspr/109.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;1 сентября 2020 года в Институте Дружбы народов Кавказа традиционно состоялся День знаний, на котором преподаватели вуза знакомились со студентами-первокурсниками, а кураторы рассказывали ребятам о традициях института, проводили экскурсии по учебным аудиториям и научным лабораториям.&lt;/p&gt;
+&lt;p&gt;         Доброй традицией института стало проведение перед началом занятий философского урока нравственности. В этот раз перед гостями, преподавателями и студентами выступил Отец Владимир (Волков) – настоятель Храма Святой Троицы г. Ставрополя, преподаватель Ставропольской Духовной Семинарии. Он рассказал о необходимости преодоления трудностей во время обучения в современном полимотивированном мире. Основным посылом духовного настоятеля к слушателям являлось усиление добродетельного давления на учеников с целью их духовного укрепления и готовности к преодолению трудностей.&lt;/p&gt;
+&lt;p&gt;         В завершение Дня знаний, ректор института доктор экономических наук, профессор Т.С. Ледович и все присутствовавшие поздравили Отца Владимира с успешным окончанием аспирантуры ИДНК по направлению 37.06.01 Психологические науки и вручили ему диплом с отличием, пожелав дальнейших успехов на научном и преподавательском поприще.&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img src=&quot;https://www.idnk.ru/images/newspr/109.jpg&quot; alt=&quot;&quot; width=&quot;441&quot; height=&quot;588&quot; /&gt;&lt;/p&gt;</content>
+		<category term="События" />
+	</entry>
+</feed>

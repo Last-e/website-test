@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="ru-ru">
+	<title type="text">Главная</title>
+	<subtitle type="text">институт дружбы народов кавказа</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.idnk.ru"/>
+	<id>https://www.idnk.ru/2-uncategorised.feed</id>
+	<updated>2025-03-06T14:57:40+00:00</updated>
+	<author>
+		<name>idnkru@yandex.ru</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.idnk.ru/2-uncategorised.feed?type=atom"/>
+	<entry>
+		<title>Доп.образование</title>
+		<link rel="alternate" type="text/html" href="https://www.idnk.ru/dop-obrazovanie.html"/>
+		<published>2025-03-06T08:51:48+00:00</published>
+		<updated>2025-03-06T08:51:48+00:00</updated>
+		<id>https://www.idnk.ru/dop-obrazovanie.html</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;h4 class=&quot;vikon-title-block open-tooltip-anchor&quot; id=&quot;anchor_fullOrganizationName&quot; data-original-title=&quot;&quot; title=&quot;&quot;&gt;Полное наименование образовательной организации&lt;/h4&gt;
+&lt;div class=&quot;vikon-text-block&quot; itemprop=&quot;fullName&quot;&gt;Частное образовательное учреждение высшего образования «Институт Дружбы народов Кавказа» ЧОУ ВО ИДНК&lt;/div&gt;
+&lt;h4 class=&quot;vikon-title-block open-tooltip-anchor&quot; id=&quot;anchor_shortOrganizationName&quot; data-original-title=&quot;&quot; title=&quot;&quot; aria-describedby=&quot;tooltip683219&quot;&gt;Сокращенное наименование образовательной организации (при наличии)&lt;/h4&gt;
+&lt;div class=&quot;vikon-text-block&quot; itemprop=&quot;shortName&quot;&gt;ЧОУ ВО ИДНК&lt;/div&gt;
+&lt;div class=&quot;vikon-text-block&quot; itemprop=&quot;shortName&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;vikon-text-block&quot; itemprop=&quot;shortName&quot;&gt;&lt;a href=&quot;https://www.idnk.ru/index.php?option=com_content&amp;amp;view=article&amp;amp;id=241&amp;amp;catid=2&quot;&gt;Режим и график работы&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;vikon-text-block&quot; itemprop=&quot;shortName&quot;&gt;&lt;a href=&quot;https://www.idnk.ru/index.php?option=com_content&amp;amp;view=article&amp;amp;id=242&amp;amp;catid=2&quot;&gt;Контакты&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;vikon-text-block&quot; itemprop=&quot;shortName&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;vikon-text-block&quot; itemprop=&quot;shortName&quot;&gt;&lt;a href=&quot;https://www.idnk.ru/sveden/files/vis/Reestrovaya_vypiska(1).pdf&quot;&gt;О лицензии на осуществление образовательной деятельности (выписке из реестра лицензий на осуществление образовательной деятельности)&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;vikon-text-block&quot; itemprop=&quot;shortName&quot;&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;h4 class=&quot;vikon-title-block open-tooltip-anchor&quot; id=&quot;anchor_fullOrganizationName&quot; data-original-title=&quot;&quot; title=&quot;&quot;&gt;Полное наименование образовательной организации&lt;/h4&gt;
+&lt;div class=&quot;vikon-text-block&quot; itemprop=&quot;fullName&quot;&gt;Частное образовательное учреждение высшего образования «Институт Дружбы народов Кавказа» ЧОУ ВО ИДНК&lt;/div&gt;
+&lt;h4 class=&quot;vikon-title-block open-tooltip-anchor&quot; id=&quot;anchor_shortOrganizationName&quot; data-original-title=&quot;&quot; title=&quot;&quot; aria-describedby=&quot;tooltip683219&quot;&gt;Сокращенное наименование образовательной организации (при наличии)&lt;/h4&gt;
+&lt;div class=&quot;vikon-text-block&quot; itemprop=&quot;shortName&quot;&gt;ЧОУ ВО ИДНК&lt;/div&gt;
+&lt;div class=&quot;vikon-text-block&quot; itemprop=&quot;shortName&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;vikon-text-block&quot; itemprop=&quot;shortName&quot;&gt;&lt;a href=&quot;https://www.idnk.ru/index.php?option=com_content&amp;amp;view=article&amp;amp;id=241&amp;amp;catid=2&quot;&gt;Режим и график работы&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;vikon-text-block&quot; itemprop=&quot;shortName&quot;&gt;&lt;a href=&quot;https://www.idnk.ru/index.php?option=com_content&amp;amp;view=article&amp;amp;id=242&amp;amp;catid=2&quot;&gt;Контакты&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;vikon-text-block&quot; itemprop=&quot;shortName&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;vikon-text-block&quot; itemprop=&quot;shortName&quot;&gt;&lt;a href=&quot;https://www.idnk.ru/sveden/files/vis/Reestrovaya_vypiska(1).pdf&quot;&gt;О лицензии на осуществление образовательной деятельности (выписке из реестра лицензий на осуществление образовательной деятельности)&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;vikon-text-block&quot; itemprop=&quot;shortName&quot;&gt;&lt;/div&gt;</content>
+		<category term="Uncategorised" />
+	</entry>
+	<entry>
+		<title>Контакты</title>
+		<link rel="alternate" type="text/html" href="https://www.idnk.ru/idnk-segodnya/kontakty.html"/>
+		<published>2025-03-06T08:34:25+00:00</published>
+		<updated>2025-03-06T08:34:25+00:00</updated>
+		<id>https://www.idnk.ru/idnk-segodnya/kontakty.html</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Контактные телефоны&lt;/td&gt;
+&lt;td&gt;+7(8652) 28-25-00; +7(8652) 28-49-60, &lt;span&gt;+78652 28 33 88&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Адреса электронной почты&lt;/td&gt;
+&lt;td&gt;idnk@mail.ru&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</summary>
+		<content type="html">&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Контактные телефоны&lt;/td&gt;
+&lt;td&gt;+7(8652) 28-25-00; +7(8652) 28-49-60, &lt;span&gt;+78652 28 33 88&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Адреса электронной почты&lt;/td&gt;
+&lt;td&gt;idnk@mail.ru&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</content>
+		<category term="Uncategorised" />
+	</entry>
+	<entry>
+		<title>Режим и график работы</title>
+		<link rel="alternate" type="text/html" href="https://www.idnk.ru/idnk-segodnya/rezhim-i-grafik-raboty.html"/>
+		<published>2025-03-06T08:31:39+00:00</published>
+		<updated>2025-03-06T08:31:39+00:00</updated>
+		<id>https://www.idnk.ru/idnk-segodnya/rezhim-i-grafik-raboty.html</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;​&lt;strong&gt;Режим и график работы учредителя:&lt;/strong&gt;&lt;br /&gt;Понедельник – пятница.&lt;/p&gt;
+&lt;p&gt;Время начала работы – 9 ч. 00 мин.&lt;/p&gt;
+&lt;p&gt;Перерыв для отдыха и питания с 13 ч. 00 мин. до 14 ч. 00 мин.&lt;br /&gt;Время окончания работы – 18 ч. 00 мин.&lt;br /&gt;Выходной день – суббота, воскресенье.&lt;/p&gt;
+&lt;p&gt;​&lt;strong&gt;Режим и график работы административно-управленческого персонала. &lt;/strong&gt;&lt;br /&gt;Понедельник – пятница.&lt;/p&gt;
+&lt;p&gt;Время начала работы – 9 ч. 00 мин.&lt;/p&gt;
+&lt;p&gt;Перерыв для отдыха и питания с 13 ч. 00 мин. до 14 ч. 00 мин.&lt;br /&gt;Время окончания работы – 18 ч. 00 мин.&lt;br /&gt;Выходной день – суббота, воскресенье.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Режим и график работы профессорско-преподавательского состава, научных работников и иного персонала, учебно-вспомогательного персонала:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Смещение времени начала и окончания работы может быть обусловлено расписанием учебных занятий.&lt;/p&gt;
+&lt;p&gt;Понедельник – суббота.&lt;/p&gt;
+&lt;p&gt;Время начала работы – 8 ч. 00 мин.&lt;br /&gt;Время окончания работы – 22 ч. 00 мин.&lt;br /&gt;Перерыв для отдыха и питания не менее 30 мин.&lt;/p&gt;
+&lt;p&gt;Выходной день – воскресенье.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Для обучающихся &lt;/strong&gt;установлен следующий&lt;span&gt; &lt;/span&gt;&lt;strong&gt;режим обучения&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;Понедельник - суббота.&lt;/p&gt;
+&lt;p&gt;с 08-00 до 18:30, по заочной форме обучения с 08-00 до 21-50.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;figure class=&quot;table&quot;&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;Учебные занятия&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;Время занятия&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;Перерыв&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1 пара&lt;/td&gt;
+&lt;td&gt;08.00-09.30&lt;/td&gt;
+&lt;td&gt;10 минут&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2 пара&lt;/td&gt;
+&lt;td&gt;09.40-11.10&lt;/td&gt;
+&lt;td&gt;10 минут&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3 пара&lt;/td&gt;
+&lt;td&gt;11.20-12.50&lt;/td&gt;
+&lt;td&gt;30 минут - Перерыв для питания&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4 пара&lt;/td&gt;
+&lt;td&gt;13.20-14.50&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;10 минут&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5 пара&lt;/td&gt;
+&lt;td&gt;15.00-16.30&lt;/td&gt;
+&lt;td&gt;10 минут&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;6 пара&lt;/td&gt;
+&lt;td&gt;17.00-18.30&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;30 минут – Перерыв для питания&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;7 пара&lt;/td&gt;
+&lt;td&gt;18.40-20.10&lt;/td&gt;
+&lt;td&gt;10 минут&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;8 пара&lt;/td&gt;
+&lt;td&gt;20.20-21.50&lt;/td&gt;
+&lt;td&gt;10 минут&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/figure&gt;</summary>
+		<content type="html">&lt;p&gt;​&lt;strong&gt;Режим и график работы учредителя:&lt;/strong&gt;&lt;br /&gt;Понедельник – пятница.&lt;/p&gt;
+&lt;p&gt;Время начала работы – 9 ч. 00 мин.&lt;/p&gt;
+&lt;p&gt;Перерыв для отдыха и питания с 13 ч. 00 мин. до 14 ч. 00 мин.&lt;br /&gt;Время окончания работы – 18 ч. 00 мин.&lt;br /&gt;Выходной день – суббота, воскресенье.&lt;/p&gt;
+&lt;p&gt;​&lt;strong&gt;Режим и график работы административно-управленческого персонала. &lt;/strong&gt;&lt;br /&gt;Понедельник – пятница.&lt;/p&gt;
+&lt;p&gt;Время начала работы – 9 ч. 00 мин.&lt;/p&gt;
+&lt;p&gt;Перерыв для отдыха и питания с 13 ч. 00 мин. до 14 ч. 00 мин.&lt;br /&gt;Время окончания работы – 18 ч. 00 мин.&lt;br /&gt;Выходной день – суббота, воскресенье.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Режим и график работы профессорско-преподавательского состава, научных работников и иного персонала, учебно-вспомогательного персонала:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Смещение времени начала и окончания работы может быть обусловлено расписанием учебных занятий.&lt;/p&gt;
+&lt;p&gt;Понедельник – суббота.&lt;/p&gt;
+&lt;p&gt;Время начала работы – 8 ч. 00 мин.&lt;br /&gt;Время окончания работы – 22 ч. 00 мин.&lt;br /&gt;Перерыв для отдыха и питания не менее 30 мин.&lt;/p&gt;
+&lt;p&gt;Выходной день – воскресенье.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Для обучающихся &lt;/strong&gt;установлен следующий&lt;span&gt; &lt;/span&gt;&lt;strong&gt;режим обучения&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;Понедельник - суббота.&lt;/p&gt;
+&lt;p&gt;с 08-00 до 18:30, по заочной форме обучения с 08-00 до 21-50.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;figure class=&quot;table&quot;&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;Учебные занятия&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;Время занятия&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;Перерыв&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1 пара&lt;/td&gt;
+&lt;td&gt;08.00-09.30&lt;/td&gt;
+&lt;td&gt;10 минут&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2 пара&lt;/td&gt;
+&lt;td&gt;09.40-11.10&lt;/td&gt;
+&lt;td&gt;10 минут&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3 пара&lt;/td&gt;
+&lt;td&gt;11.20-12.50&lt;/td&gt;
+&lt;td&gt;30 минут - Перерыв для питания&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4 пара&lt;/td&gt;
+&lt;td&gt;13.20-14.50&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;10 минут&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5 пара&lt;/td&gt;
+&lt;td&gt;15.00-16.30&lt;/td&gt;
+&lt;td&gt;10 минут&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;6 пара&lt;/td&gt;
+&lt;td&gt;17.00-18.30&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;30 минут – Перерыв для питания&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;7 пара&lt;/td&gt;
+&lt;td&gt;18.40-20.10&lt;/td&gt;
+&lt;td&gt;10 минут&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;8 пара&lt;/td&gt;
+&lt;td&gt;20.20-21.50&lt;/td&gt;
+&lt;td&gt;10 минут&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/figure&gt;</content>
+		<category term="Uncategorised" />
+	</entry>
+</feed>
