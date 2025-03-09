@@ -18,12 +18,12 @@ $(document).ready(function() {
 	var win__h = $(window).height();
 	var win__w = $(window).width();
 	
-	if(win__w > 1200)
-	{
-		var ap_b1line__h = win__h - 503;
+	// if(win__w > 1200)
+	// {
+	// 	var ap_b1line__h = win__h - 503;
 		
-		$("#ap_b1line").css('min-height', ap_b1line__h);
-	}
+	// 	$("#ap_b1line").css('min-height', ap_b1line__h);
+	// }
 	/**/
 	memory();
 	/**/
