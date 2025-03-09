@@ -1100,6 +1100,7 @@ body.compensate-for-scrollbar {
 #ap_b1line{
 	padding-top: 25px;
 	padding-bottom: 50px;
+	height: auto;
 }
 
 #ap_b1_left{
